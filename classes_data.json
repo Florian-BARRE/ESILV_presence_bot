@@ -1,0 +1,22 @@
+{
+    "classes": [
+        {
+            "start": 61200,
+            "end": 66600,
+            "name": "Optimisation & rech. Op",
+            "prof": "Samir YAHIAOUI",
+            "ZOOM_link": "https://devinci-online.zoom.us/j/82365450599",
+            "register_opened": false,
+            "notif_sent": false
+        },
+        {
+            "start": 67500,
+            "end": 72900,
+            "name": "Analyse de Fourier",
+            "prof": "Raafat TALHOUK",
+            "ZOOM_link": "https://devinci-online.zoom.us/j/85674548479",
+            "register_opened": false,
+            "notif_sent": false
+        }
+    ]
+}
