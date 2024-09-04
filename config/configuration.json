@@ -1,0 +1,11 @@
+{
+  "priority_debug_level": 100,
+  "url": "https://www.leonard-de-vinci.net/",
+  "refresh_interval": 5,
+  "sessions_path": "sessions.txt",
+  "classes_data_path": "classes_data.json",
+  "day_start_hour": "7:45",
+  "day_end_hour": "21:15",
+  "max_load_wait": 10,
+  "idle_refresh_interval": 300
+}
